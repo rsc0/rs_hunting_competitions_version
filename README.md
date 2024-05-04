@@ -1,0 +1,1 @@
+# rs_hunting_competitions_version
